@@ -1,12 +1,17 @@
-## Hi there 👋
+# 그린나래(Greenwings) 프로젝트
 
-<!--
+## Front
+서버사이드 렌더링(SSR)을 통해 동적으로 HTML 페이지를 생성하고 클라이언트와 서버 간 데이터를 처리.
+- **Repository URL**: [Front Repo](https://github.com/Greenwings-2025/front)
 
-**Here are some ideas to get you started:**
+## API
+다양한 비즈니스 로직을 처리하는 API 서비스.
+- **Repository URL**: [API Repo](https://github.com/Greenwings-2025/api)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Gateway
+API Gateway로 모든 클라이언트 요청을 각 서비스로 라우팅.
+- **Repository URL**: [Gateway Repo](https://github.com/Greenwings-2025/gateway)
+
+## Eureka
+서비스 디스커버리 관리와 서비스 간의 동적 연결을 제공하는 Eureka 서버.
+- **Repository URL**: [Eureka Repo](https://github.com/Greenwings-2025/eureka)
