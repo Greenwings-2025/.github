@@ -27,3 +27,12 @@ API Gateway로 모든 클라이언트 요청을 각 서비스로 라우팅.
 ## Eureka
 서비스 디스커버리 관리와 서비스 간의 동적 연결을 제공하는 Eureka 서버.
 - **Repository URL**: [Eureka Repo](https://github.com/Greenwings-2025/eureka)
+
+---
+
+## ERD
+- **ERDCloud URL**: [ERDCloud](https://www.erdcloud.com/d/C6RhNM2R5WshWguAW)
+
+
+
+
